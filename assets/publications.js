@@ -4,7 +4,7 @@ const publications = [
 year: 2026,
 type: "international-list",
 text: `[J2] “Faster GF(2)[x] polynomial multiplication using SIMD instructions,”
-<b>Jihoon Jang</b>, Myeonghoon Lee, Suhri Kim, Seokhie Hong, Sangjin Lee,
+<b>Jihoon Jang</b>, Myeonghoon Lee, Suhri Kim, Seog Chung Seo, Seokhie Hong,
 <i>Journal of Cryptographic Engineering (JCEN)</i> (Accepted).`
 },
 {
